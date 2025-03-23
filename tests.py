@@ -25,7 +25,7 @@ def test_extracted_data(extracted_data):
     assert list(extracted_data.columns) == expected_columns, "Column names are not as expected"
 
     # confirm column types
-    expected_dtypes = ["object", "object", "object", "datetime64[ns]"]
+    expected_dtypes = ["object", "object", "int", "datetime64[ns]"]
     assert list(extracted_data.dtypes) == expected_dtypes, "Column types are not as expected"
 
 # confirm there is only data from the past 24 hours
