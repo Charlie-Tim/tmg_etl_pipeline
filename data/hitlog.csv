@@ -1,0 +1,28 @@
+page_name,page_url,user_id,timestamp
+article1,https://www.telegraph.co.uk/articles/article1,1234,2024-03-22 10:22:17
+article2,https://www.telegraph.co.uk/articles/article2,1234,2024-03-22 10:23:18
+crossword,https://www.telegraph.co.uk/puzzles/puzzle/crosswords/,1234,2024-03-22 10:24:19
+article3,https://www.telegraph.co.uk/articles/article3,1234,2024-03-22 10:36:22
+article2,https://www.telegraph.co.uk/articles/article2,1234,2024-03-22 10:40:00
+registration,https://www.telegraph.co.uk/registration,1234,2024-03-22 10:42:40
+article4,https://www.telegraph.co.uk/articles/article4,1234,2024-03-22 11:00:00
+registration,https://www.telegraph.co.uk/registration,1234,2024-03-22 12:00:00
+
+article1,https://www.telegraph.co.uk/articles/article1,5678,2024-03-22 12:30:08
+article2,https://www.telegraph.co.uk/articles/article2,5678,2024-03-22 12:33:51
+
+article2,https://www.telegraph.co.uk/articles/article2,1357,2024-03-22 15:00:00
+article3,https://www.telegraph.co.uk/articles/article3,1357,2024-03-22 15:14:10
+registration,https://www.telegraph.co.uk/registration,1357,2024-03-22 15:26:30
+
+article2,https://www.telegraph.co.uk/articles/article2,2468,2024-03-22 14:40:00
+registration,https://www.telegraph.co.uk/registration,2468,2024-03-22 14:50:00
+
+article2,https://www.telegraph.co.uk/articles/article2,1111,2024-03-22 15:50:00
+article1,,2468,2024-03-22 15:50:00
+article3,https://www.telegraph.co.uk/articles/article3,1111,2024-03-22 15:52:00
+article2,https://www.telegraph.co.uk/articles/article2,1111,2024-03-22 15:53:00
+registration,https://www.telegraph.co.uk/registration,1111,2024-03-22 15:53:20
+
+crossword,https://www.telegraph.co.uk/puzzles/puzzle/crosswords/,2222,2024-03-22 10:20:00
+registration,https://www.telegraph.co.uk/registration,2222,2024-03-22 10:30:00
